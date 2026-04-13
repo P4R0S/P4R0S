@@ -173,13 +173,11 @@ Structured & unstructured **pruning**, **quantization** (INT8/FP16), and **SVD-b
 
 </div>
 
-> ⚠️ *The snake animation requires a GitHub Actions workflow in your profile repo to generate the SVG. See [platane/snk](https://github.com/platane/snk) for setup — it takes ~2 minutes.*
-
 ---
 
 ## 🎵 Beyond the Terminal
 
-When I'm not compressing neural networks or running SLURM jobs, you'll find me lifting at the gym 🏋️, creating generative music (post-rock, Persian folk) with **Suno AI** 🎸, or chipping away at German grammar 🇩🇪.
+When I'm not compressing neural networks or running SLURM jobs, you'll find me lifting at the gym 🏋️, Listening to music (post-rock, Persian folk) 🎸, or chipping away at German grammar 🇩🇪.
 
 ---
 
